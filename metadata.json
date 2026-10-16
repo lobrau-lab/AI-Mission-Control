@@ -1,0 +1,6 @@
+{
+  "name": "AI Mission Control",
+  "description": "Mobile mission control terminal for local AI agents, 6-TTY grid sessions, task queues, and server health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
